@@ -1,4 +1,4 @@
-Ensure you are inside the "Expt4 - Group Communication" Folder 
+Ensure you are inside the "Expt4 - Group Communication" Folder.   
 If not, use the command:
 ```bash
 cd "Expt4 - Group Communication"
